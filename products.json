@@ -1,0 +1,19 @@
+[
+  {
+    "title": "banana",
+    "description": "1kg de banana",
+    "price": 250,
+    "thumbnail": "imagenBanana",
+    "code": 5,
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "id": 2,
+    "title": "manzana",
+    "description": "1kg de manzana",
+    "price": 500,
+    "thumbnail": "imagenManzana",
+    "stock": 25
+  }
+]
